@@ -1,0 +1,24 @@
+{
+  "name": "webpack-2",
+  "version": "1.0.0",
+  "description": "Learn Webpack 2 - what it is, how it works and how to use it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack src/js/app.js --output dist/bundle.js --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEDBED/WebPack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEDBED/WebPack/issues"
+  },
+  "homepage": "https://github.com/MEDBED/WebPack#readme",
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
+}

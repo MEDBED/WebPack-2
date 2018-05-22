@@ -11,5 +11,5 @@ Learn Webpack 2 - what it is, how it works and how to use it!
 
                              Enjoy it
 
-                This Commit is before using Webpack
+                This Commit is After using Webpack
 ------------------------------  -_-  ----------------------------
