@@ -1,4 +1,4 @@
-var showSecret=false;
+var showSecret = false;
 
 secretButton.addEventListner('click',toggleSecretState);
 updateSecretParagraph();
